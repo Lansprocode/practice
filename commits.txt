@@ -1,0 +1,17 @@
+commit dec0f98db742803ccebee3590975016346ae542f
+Author: lans <lansperformance@gmail.com>
+Date:   Thu Jul 13 13:09:02 2017 -0400
+
+    modifique el html y css para mejoras de colores
+
+commit edc98d88fa73a0a1f2f00dcaa871270b0884bc4b
+Author: lans <lansperformance@gmail.com>
+Date:   Thu Jul 13 13:01:50 2017 -0400
+
+    Le cambie el color al pie de la pagina
+
+commit c79d73f8d0294c999136ea7be60ca1c9b8b2944f
+Author: lans <lansperformance@gmail.com>
+Date:   Thu Jul 13 12:56:04 2017 -0400
+
+    Iniciemos, ya subi todos los archivos

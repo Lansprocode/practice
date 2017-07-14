@@ -5,9 +5,16 @@
 
 h1{
     font: bold 20px verdana, sans-serif;
+    color: brown;
 }
 h2{
     font: bold 14px verdana, sans-serif;
+}
+
+h3{
+  color: red;
+  font-style: italic;
+
 }
 
 header, section, footer, aside, nav, article, figure, figcaption,hgroup{
@@ -20,6 +27,16 @@ body {
     background-position:center;
     text-align: center;
 }
+
+.btn {
+  padding:10px 20px;
+  border-radius: 5px;
+  background-color: blue;
+  color: black;
+  margin: 10px;
+  display: inline-block;
+}
+
 #agrupar {
     width: 960px;
     margin: 15px auto;
@@ -29,18 +46,18 @@ body {
     background: white;
     border: 1px solid #999999;
     padding: 20px;
-    
+
  -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
-    
+
 background: -webkit-radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
     background: -moz-radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
 }
 #menu {
     background: white;
     padding: 5px 15px;
-    
+
 -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
@@ -51,7 +68,7 @@ border-radius: 20px;
     list-style: none;
     padding: 5px;
     font: bold 14px verdana, sans-serif;
-    
+
     -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
@@ -60,7 +77,7 @@ border-radius: 20px;
     float: left;
     width: 660px;
     margin: 20px;
-    
+
     -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
@@ -71,7 +88,7 @@ border-radius: 20px;
     margin: 20px 0px;
     padding: 20px;
     background: white;
-    
+
     -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
@@ -81,27 +98,27 @@ border-radius: 20px;
     text-align: center;
     padding: 20px;
     border-top: 2px solid black;
-    
+
     -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
     background: linear-gradient(40deg, white, black);
-   
+
 }
 article {
     background: white;
     border: 1px solid #999999;
     padding: 20px;
     margin-bottom: 15px;
-    
+
     -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
-    
+
 }
 article footer {
 text-align: right;
-    
+
 -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
 border-radius: 20px;
@@ -116,6 +133,12 @@ figcaption {
     font: italic 14px verdana, sans-serif;
 }
 
+span3 {
+  color: red;
+  background: blond;
+  font-style: italic;
+}
+
 #repoductor{
       -moz-border-radius: 20px;
 -webkit-border-radius: 20px;
@@ -124,7 +147,7 @@ border-radius: 20px;
 }
 
 #medio{
-    
+
     display: inline-block;
     list-style: none;
     padding: 5px;
